@@ -45,7 +45,8 @@ siteOptions = {
         }
 
         if(site.author.linkedin)
-          contact_list_secondary.prepend('<li><a class="btn btn-default btn-sm" href="https://linkedin.com/in/'+site.author.linkedin+'"><i class="fa fa-linkedin fa-lg"></i></a></li>');
+          contact_list_primary.append('<li><a class="btn btn-default btn-sm" href="https://linkedin.com/in/'+site.author.linkedin+'"><i class="fa fa-linkedin fa-lg"></i></a></li>');
+           mobile_contact_list.append('<a class="navbar-toggle nav-link" href="https://linkedin.com/in/'+site.author.linkedin+'"><i class="fa fa-linkedin"></i></a>');
 
         if(site.author.pinterest)
           contact_list_secondary.prepend('<li><a class="btn btn-default btn-sm" href="https://pinterest.com/'+site.author.pinterest+'"><i class="fa fa-pinterest fa-lg"></i></a></li>');
