@@ -1,4 +1,59 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Jackson Noel - Jackson Noel</title><description>Thoughts, stories and ideas.</description><link>http://localhost:2368/</link><generator>Ghost 0.5</generator><lastBuildDate>Sat, 07 Feb 2015 22:11:42 GMT</lastBuildDate><atom:link href="http://localhost:2368/author/jackson/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title>test</title><description>&lt;p&gt;test&lt;/p&gt;</description><link>http://localhost:2368/test/</link><guid isPermaLink="false">28306d65-6799-4767-ac6b-3274a4f56311</guid><dc:creator>Jackson Noel</dc:creator><pubDate>Sat, 24 Jan 2015 23:00:03 GMT</pubDate></item><item><title>Writing</title><description>&lt;p&gt;I've been a citizen of the internet for almost as long as I can remember, and generally like to consider myself an early adopter. &lt;/p&gt;
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Jackson Noel - Jackson Noel</title><description>Getting out of my comfort zone and sharing what I learn. </description><link>http://localhost:2368/</link><generator>Ghost 0.5</generator><lastBuildDate>Sun, 15 Feb 2015 22:55:19 GMT</lastBuildDate><atom:link href="http://localhost:2368/author/jackson/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title>Keep your customer close and your churned customer closer</title><description>&lt;p&gt;A couple of weeks ago, we got an email that no startup wants to receive:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2015/02/cancellation.png" alt="Churn"&gt;&lt;/p&gt;
+
+&lt;p&gt;I was devastated when I read it. Sure, it always sucks to lose a customer. But there are a few reasons why this one particularly stung:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;This was the first customer I ever actually sold Appcues to, so I had an emotional tie to them.  &lt;/li&gt;
+&lt;li&gt;Our champion at the company (the one who sent this email) was providing outstanding feedback on our product. We skyped with him often.  &lt;/li&gt;
+&lt;li&gt;They epitomized the problem that we're trying to solve by building Appcues. They want to improve user engagement and conversion, and are constrained by the size of their development team.  &lt;/li&gt;
+&lt;li&gt;They were actually using the platform. It wasn't as if they signed up and never really got started. They had used Appcues to create in-app experience seen by tens of thousands of users.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h4 id="goodchurnvsbadchurn"&gt;Good churn vs. bad churn&lt;/h4&gt;
+
+&lt;p&gt;This email didn't actually come as a surprise. In December, our champion reached out to me to say they were looking into using one of our competitors. So we immediately set up a call to find out what was going on.&lt;/p&gt;
+
+&lt;p&gt;When we talked to them, it was clear: &lt;strong&gt;they weren't successful with Appcues&lt;/strong&gt;. We had a half dozen things on our roadmap, but not yet in our product, that this customer really needed. &lt;/p&gt;
+
+&lt;p&gt;Churn is never a "good" thing. But there's certainly some churn that's better than other.&lt;/p&gt;
+
+&lt;p&gt;For example, there is always going to be churn that is beyond your control: a customer goes out of business, or gets bought, or shifts their strategy and no longer needs you. That's "good" churn.&lt;/p&gt;
+
+&lt;p&gt;Then there's the okay churn: a customer cannot afford your product anymore, or the internal champion leaves.&lt;/p&gt;
+
+&lt;p&gt;And lastly, there's bad churn: when a customer leaves because your product doesn't help them achieve their &lt;a href="http://sixteenventures.com/customer-success-desired-outcome"&gt;desired outcome&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;This was &lt;strong&gt;bad churn&lt;/strong&gt;. And that's why losing this customer hurt so much. &lt;em&gt;We failed them.&lt;/em&gt; In fact, had we not built such a good relationship, this customer likely would've churned months prior. &lt;/p&gt;
+
+&lt;h4 id="gettingfeedbackattheexit"&gt;Getting feedback at the exit&lt;/h4&gt;
+
+&lt;p&gt;One of the primary reasons early stage startups fail is they build something that nobody wants. That's why it's so important to collect feedback from customers and potential customers all the time. &lt;/p&gt;
+
+&lt;p&gt;Perhaps there is no better opportunity for authentic feedback than when a customer leaves you. So when this customer left, we found out exactly why.&lt;/p&gt;
+
+&lt;p&gt;We've spoken to the customer a couple times since cancelling their subscription, and have learned quite a bit. We discovered &lt;del&gt;deficiencies&lt;/del&gt; opportunities for improvement in our product. We learned more about their desired outcome, and what we'd need to change to help them reach it. We heard how they thought we were different than our competitor, and what they really liked about their product.&lt;/p&gt;
+
+&lt;p&gt;It's often said, "let customers vote with their wallets." Ours just did, but just because it wasn't the vote we wanted didn't mean that we could pass up the opportunity to learn. &lt;/p&gt;
+
+&lt;h4 id="howwelearnfromchurn"&gt;How we learn from churn&lt;/h4&gt;
+
+&lt;p&gt;In order to survive as an early stage startup, you must sell your vision, not your current capabilities. We often talk to prospective customers about features that don't exist yet, and investors about growth that hasn't happened yet. &lt;/p&gt;
+
+&lt;p&gt;In this situation, our customer lost the patience to wait for our vision to manifest. They needed capabilities today. And for that, I don't blame them. &lt;/p&gt;
+
+&lt;p&gt;It's easy to see this as a failure. But rather, I see it as an opportunity.&lt;/p&gt;
+
+&lt;p&gt;Our goal is to have &lt;em&gt;zero bad churn&lt;/em&gt;: zero customers leaving because they aren't reaching their desired outcomes. By studying our churn early on, we can better understand it and avoid it later on down the road.&lt;/p&gt;
+
+&lt;p&gt;As the gap between our current capabilities and our vision shrinks, so too will the gap between our capabilities and our customer's expectations. &lt;/p&gt;
+
+&lt;p&gt;Every successful startup had assumptions they needed to change, pivots they had to make. And there's no better catalyst for change than having someone tell you they don't want to give you money anymore.&lt;/p&gt;
+
+&lt;p&gt;It sucks to no longer receive their revenue. But, in a sense, we've traded it for awareness and empathy. And this trade will (hopefully) allow us to close our gaps quicker, and build a better solution for our customers over the long run.&lt;/p&gt;
+
+&lt;p&gt;Churn won't always be an opportunity. But for now it is. And we intend to seize it. &lt;/p&gt;</description><link>http://localhost:2368/we-lost-a-customer/</link><guid isPermaLink="false">96aafa63-edf2-4818-872c-af9b88dabc0d</guid><dc:creator>Jackson Noel</dc:creator><pubDate>Sun, 15 Feb 2015 22:25:50 GMT</pubDate></item><item><title>Writing</title><description>&lt;p&gt;I've been a citizen of the internet for almost as long as I can remember, and generally like to consider myself an early adopter. &lt;/p&gt;
 
 &lt;p&gt;But not once did I hop on the blogging train. No blogger, tumblr, wordpress: none of that. &lt;/p&gt;
 
